@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hector/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.3/903703e4eca4d27092cf61412b7a583aa26d14ad/gdx-backend-android-1.5.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="903703e4eca4d27092cf61412b7a583aa26d14ad">
+        <dex dex="/home/hector/GUI_programacion/workspace_android/mighty/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.5.3-00feb16e0415fcb5f8b1452a79e8794f83d55625.jar" />
+    </item>
+    <item
+        jar="/home/hector/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.5.3/52bc9ff881a6eb1731eb2f54b5016425cae05024/gdx-box2d-1.5.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="52bc9ff881a6eb1731eb2f54b5016425cae05024">
+        <dex dex="/home/hector/GUI_programacion/workspace_android/mighty/android/build/intermediates/pre-dexed/release/gdx-box2d-1.5.3-ffea19108bb99c844be8d9ea95f06dd6ccd158ca.jar" />
+    </item>
+    <item
+        jar="/home/hector/GUI_programacion/workspace_android/mighty/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cee98750be43c88572bad46826384ca265718d47">
+        <dex dex="/home/hector/GUI_programacion/workspace_android/mighty/android/build/intermediates/pre-dexed/release/core-1.0-c185f33aba6eb4fdf6e98a2aae485ddb3434f061.jar" />
+    </item>
+    <item
+        jar="/home/hector/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.3/3b8f2a7e697b097735ec8fd2b9d576d0959cb7c9/gdx-1.5.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3b8f2a7e697b097735ec8fd2b9d576d0959cb7c9">
+        <dex dex="/home/hector/GUI_programacion/workspace_android/mighty/android/build/intermediates/pre-dexed/release/gdx-1.5.3-560b752b84b4ba7583e45dfd7bda8498764306af.jar" />
+    </item>
+
+</items>
